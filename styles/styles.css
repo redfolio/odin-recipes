@@ -6,8 +6,31 @@ body {
 .mainNav > li{
     color:white;
     list-style-type:none;
+    list-style: none;
 }
 
-.mainNav > li > a{
-    text-decoration-line: none;
+
+a {
+    text-decoration: none;
+    color:white;
 }
+
+
+/*-- this is for text design --*/
+
+h1, h2
+{
+    color: white;
+}
+
+#boxIngredients {
+    color:white;
+}
+
+/* fonts */
+h1, h2, h3, p, ul, ol{
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    
+}
+
