@@ -1,0 +1,13 @@
+body {
+    background-color: #1a1a1a;
+}
+
+/*-- this is for index.html navigation --*/
+.mainNav > li{
+    color:white;
+    list-style-type:none;
+}
+
+.mainNav > li > a{
+    text-decoration-line: none;
+}
